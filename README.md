@@ -28,19 +28,19 @@ Para probar que todo se instaló y compiló correctamente:
 
 Si todo se instaló y compiló correctamente, se debería ver un visualizador RViz como el siguiente:
 
-<img src="https://github.com/mnegretev/UTT-TNRYA-2023/blob/main/Media/rviz.png" alt="RViz" width="639"/>
+<img src="https://github.com/mnegretev/UTT-TNRYA-2023/blob/master/Media/rviz.png" alt="RViz" width="639"/>
 
 Un ambiente simulado como el siguiente:
 
-<img src="https://github.com/mnegretev/UTT-TNRYA-2023/blob/main/Media/gazebo.png" alt="Gazebo" width="631"/>
+<img src="https://github.com/mnegretev/UTT-TNRYA-2023/blob/master/Media/gazebo.png" alt="Gazebo" width="631"/>
 
 Y una GUI como la siguiente:
 
-<img src="https://github.com/mnegretev/UTT-TNRYA-2023/blob/main/Media/gui.png" alt="GUI" width="454"/>
+<img src="https://github.com/mnegretev/UTT-TNRYA-2023/blob/master/Media/gui.png" alt="GUI" width="454"/>
 
 ## Máquina virtual
 
-Se puede descargar una máquina virtual para [VirtualBox](https://www.virtualbox.org/wiki/Downloads) con Ubuntu y ROs ya instalado de [esta dirección.](https://drive.google.com/drive/folders/1T-gDsEb5Opl4gbx2qPQYEelyPnEe91Yk?usp=share_link) <br>
+Se puede descargar una máquina virtual para [VirtualBox](https://www.virtualbox.org/wiki/Downloads) con Ubuntu y ROs ya instalado de [esta dirección.](https://drive.google.com/drive/folders/1IqEFug0CiOSdiaw3HvmrAM3h2_HQhKpx?usp=share_link) <br>
 Sólo es necesario  descomprimir el archivo y seguir las instrucciones del video que está en esa misma carpeta. La máquina virtual ya tiene todo instalado por lo que se puede pasar directo a la sección de "pruebas".<br> 
 Se recomienda configurar la máquina virtual con 4 CPUs y 4GB de RAM.<br>
 Usuario: student <br>
